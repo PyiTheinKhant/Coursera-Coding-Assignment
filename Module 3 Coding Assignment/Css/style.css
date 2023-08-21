@@ -1,0 +1,39 @@
+
+
+
+#pizza, #potato, #icecream{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgba(65, 57, 57, 0.244);
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+}
+
+.our-menu{
+    padding:20px;
+}
+
+.padding{
+    padding-left: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.nav-item{
+    text-align: center;
+}
+
+.nav-item:hover{
+    background-color: rgba(102, 83, 83, 0.702);
+
+}
+ 
